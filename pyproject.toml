@@ -1,0 +1,20 @@
+[project]
+name = "zomato-restaurant-intelligence"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "joblib>=1.6.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "nltk>=3.10.4",
+    "numpy>=2.4.6",
+    "openpyxl>=3.1.5",
+    "pandas>=3.1.1",
+    "plotly>=7.1.0",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.67.0",
+    "vadersentiment>=3.3.2",
+]
