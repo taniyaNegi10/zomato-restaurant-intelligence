@@ -1,7 +1,7 @@
 [project]
 name = "zomato-restaurant-intelligence"
 version = "0.1.0"
-description = "Add your description here"
+description = "An end-to-end restaurant analytics dashboard using K-Means clustering, VADER sentiment analysis, and Streamlit."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
